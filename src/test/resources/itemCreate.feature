@@ -1,7 +1,7 @@
 Feature: Item
 
   #este es un comentario
-  @Items
+@Items
   Scenario: As admin user
             I want to create an item
             So that i am able to manipulate the item
